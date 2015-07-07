@@ -1,0 +1,7 @@
+{
+    "name": "spaceboy/repair-tags",
+    "description": "Re-pairs tags in given (short) HTML",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
